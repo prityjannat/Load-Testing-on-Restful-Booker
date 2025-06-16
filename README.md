@@ -38,14 +38,14 @@ I performed load testing and stress testing on the Restful-Booker website using 
 - Continue increasing users until the system breaks or errors occur.
 - Record the exact time and user count when the server begins to fail.
 
-## Request Summary
-![Load_test_7mins](https://github.com/user-attachments/assets/eea9b079-7771-4135-939f-b2ce051a1366)
-![Stress_test_1170](https://github.com/user-attachments/assets/2ecdcb58-0733-433c-97a9-23d67efaae63)
-
-## Load Test Report
+## Request summary and statistics report
 ![Load_Test_Report](https://github.com/user-attachments/assets/d4c14e6e-26e1-423e-92a2-7c95da7324a2)
 
+## Load Test Report
+![load_test_excel](https://github.com/user-attachments/assets/c2c34ff8-e53c-4a42-8113-7caea7c5441a)
+
 ## Stress Test Report
-![Stress_Test_Report](https://github.com/user-attachments/assets/03129416-f86e-4f5d-b524-0ad90955b834)
+![strees_test_excel](https://github.com/user-attachments/assets/a36ad82e-02a9-45c7-bba0-664e680f6a5c)
+
 
 
